@@ -1,0 +1,25 @@
+class Demo
+{
+	// 0 arg constrictor 
+	Demo(){
+		System.out.println("inside the 0 arg Demo class constructor");
+	}
+	// 1 arg constructor 
+	Demo( int a ){
+		System.out.println("inside the 1 arg  demo class form Example6 class constructor ");
+	}
+}
+
+class Example6{
+	public static void main(String[] args){
+		System.out.println("Start");
+		// object creation
+		Demo d=new Demo();
+		Demo d1=new Demo(100);
+		System.out.println("Stops");
+		
+	}
+}
+
+// pointe:-- 
+// we can create constrctor in any class and we can execute it in different class too --> just we need to create object of that respective class whose constructor we need to access 

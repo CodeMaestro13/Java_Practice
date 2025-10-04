@@ -1,0 +1,18 @@
+class Example3{
+	// constructor making 
+	Example2(){
+		System.out.println("Inside the constructor return statement ");
+		return;
+	}
+	public static void main(String[] args){
+		System.out.println("Start");
+		// object creation
+		Example2 ref= new Example2();
+		System.out.println("Stops");
+		
+	}
+}
+
+// pointe:-- 
+
+// within the constructor we can use return statement but if we didnt use it by default compiler will add or set the return statement.

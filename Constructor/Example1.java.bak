@@ -1,0 +1,13 @@
+class Example1{
+	// constructor making 
+	Example1(){
+		System.out.println("Inside the constructor ");
+	}
+	public static void main(String[] args){
+		System.out.println("Start");
+		// object creation
+		Example1 ref= new Example1();
+		System.out.println("Stops");
+		
+	}
+}

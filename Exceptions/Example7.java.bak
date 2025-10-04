@@ -12,6 +12,7 @@ class Example7
 				    System.out.println("inside catch block ");
 					    System.out.println(10/0); 
 
+
 			}
 			}		
 }

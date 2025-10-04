@@ -1,0 +1,25 @@
+class Example4{
+	// constructor making 
+	Example4(){
+		System.out.println("Inside the constructor how many we can create  ");
+	}
+	Example4(){
+		System.out.println("Inside the constructor how many we can create  ");
+	}
+	public static void main(String[] args){
+		System.out.println("Start");
+		// object creation
+		Example4 ref= new Example4();
+		System.out.println("Stops");
+		
+	}
+}
+// output:-
+
+<!-- C:\Program Files\EditPlus\JAVA\Constructor>javac Example4.java
+Example4.java:6: error: constructor Example4() is already defined in class Example4
+        Example4(){
+        ^
+1 error -->
+
+// pointe:-- Duplicate method or constructor is not allowred in java 

@@ -1,0 +1,25 @@
+class Example15
+{
+	Example15(){
+		System.out.println("Inside the 0 args const");
+	}
+	Example15(int a)
+	{ this();
+		System.out.println("Inside the 1 arg const");
+	}
+	
+	Example15(int a , float b){
+		this(10);
+		System.out.println("Inside the 2 arg const");
+	}
+	
+	
+	
+	public static void main(String[] args){
+		System.out.println("Start");
+		new Example15(10, 20.5f);
+		System.out.println("Ends");
+		
+	}
+}
+// points:- in this example we will get to know about how to use the this() method properly to access different constructor from single object.
