@@ -6,7 +6,7 @@ class Demo
 	}
 	// 1 arg constructor 
 	Demo( int a ){
-		System.out.println("inside the 1 arg constructor ");
+		System.out.println("inside the 1 arg  demo class form Example6 class constructor ");
 	}
 }
 

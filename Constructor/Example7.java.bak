@@ -10,7 +10,7 @@ class Example7{
 		System.out.println("Start");
 		// object creation
 		Example7 ref= new Example7();
-		System.out.println(ref.a);
+		System.out.println(ref.a); // output-> 10 
 		System.out.println("Stops");
 		
 	}

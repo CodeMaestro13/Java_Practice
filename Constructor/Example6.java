@@ -21,5 +21,5 @@ class Example6{
 	}
 }
 
-// pointe:-- 
+// point:-- 
 // we can create constrctor in any class and we can execute it in different class too --> just we need to create object of that respective class whose constructor we need to access 

@@ -1,0 +1,20 @@
+// in this example we are going to initialized the non static variable
+class Example6
+{
+	// non static vaiable 
+	int a;
+	{
+		System.out.println("Inside the NSB-- " + a); // 0
+		a=10;
+	}
+	Example6(){
+		System.out.println("inside the 0 arg constructor " + a);
+	}
+	public static void main(String[] args){
+		System.out.println("Start");
+		Example6 ref=new Example6();
+		System.out.println(ref.a);
+		System.out.println("Stops");
+	}
+	
+}

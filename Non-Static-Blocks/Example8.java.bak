@@ -1,0 +1,20 @@
+class Sample
+{
+	// non static block
+	{
+		System.out.println("Inside the non Static block");
+	}
+	Sample(){
+		System.out.println("Inside the 0 arg const");
+	}
+}
+
+class Example8
+{
+	public static void main(String[] args){
+		System.out.println("Start");
+		// constructor calling 
+		new Sample();
+		System.out.println("Stops");
+	}
+}

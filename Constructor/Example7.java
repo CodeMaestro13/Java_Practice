@@ -20,4 +20,6 @@ class Example7{
 
 // Real life uses for constructor :-
 
-// it is used to initialize the non-static variables 
+// 1) it is used to initialize the non-static variables during object creation 
+
+// 2) to implement the bussiness logic during the object creation
