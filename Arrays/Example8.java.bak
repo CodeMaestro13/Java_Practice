@@ -1,0 +1,16 @@
+class Example8
+{
+	public static void main(String[] args){
+	System.out.println("Starts");
+	 
+	 // array creation 
+	  int[] arr= new int[3];
+	  // for each loop 
+	  for(int i=0;i<arr.length;i++){
+		System.out.println(arr[i]);
+	  }
+	  System.out.println("Ends");
+	}
+}
+
+// by default value in array is zero and that is set by complier itself 

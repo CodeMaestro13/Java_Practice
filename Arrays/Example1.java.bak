@@ -1,0 +1,33 @@
+class Example1
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Starts");
+		int[] arr = new int[3];
+		arr[0]=10;
+		arr[1]=20;
+		arr[2]=30;
+		System.out.println(a[0]);
+		System.out.println(a[1]);
+		System.out.println(a[2]);
+		
+		System.out.println("Ends");
+		
+	}
+	
+}
+
+// points :-- 
+// an arrays is used to stores multiple values , whenever we stores multiple values in arrays this values are stores in an index forments 
+
+// ways to create an arrays--> 2 ways 
+
+// 1--> int[] a (1 stage--declaration) = new int[3]; --> 2 stage (Instantiation)
+      // store values in it 
+	  // a[0] =10;
+	  // a[0]=20;   ---> 3 stage(Iniationalization )
+	  
+	  
+	  // their are 3 stages in this 1 way where are 3 stages are declaration , inistation and initialization 
+	  
+	  

@@ -1,0 +1,41 @@
+class A
+{
+	int	a=10;
+	 void m1(){
+		System.out.println("Inside class A in static m1	method " + a);
+	}
+}
+class B	extends	A{
+	float b= 20.5f;
+	void m2(){
+		System.out.println("Inside class B in m2 method	" +	b);
+	}	
+}
+class C	extends	B
+{
+	char c = 'X';
+	void m3(){
+		System.out.println("Inside class C in m3 method"+c);
+	}
+}
+class Example4
+{
+	public static void main(String[] args)
+	{
+		// object creation 
+		C c	= new C();
+		c.m3();
+		c.m2();
+		c.m1();
+		
+		System.out.println("---------------------------");
+		
+		B b	= new B();
+		 b.m1();
+		 b.m2();
+		 System.out.println("---------------------------");
+		A a	= new A();
+		  a.m1();
+	}
+	
+}

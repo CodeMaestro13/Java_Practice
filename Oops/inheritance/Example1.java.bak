@@ -1,0 +1,21 @@
+// parent class/ super class/ Based class
+class A
+{
+	int a =100;
+}
+// child / sub/ derived class
+class B extends A 
+{
+	float b= 200.5f;
+	
+}
+class Example1
+{
+	public static void main(String[] args){
+		// parent ka object 
+		A ref1 = new A();
+		System.out.println(ref1.a);
+		System.out.println(ref1.b);
+	}
+	
+}

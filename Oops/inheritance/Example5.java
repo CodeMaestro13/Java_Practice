@@ -1,0 +1,33 @@
+class A{
+	int a =10;
+	void m1(){ System.out.println("Inside m1 method: " +a ); }
+}
+class B extends A 
+{
+	float b=20.5f;
+	void m2(){System.out.println("Inside m2 method: " + b); }
+}
+class C extends B
+{
+	char c = 'K';
+	void m3(){System.out.println("Inside m3 method: " + c);}
+}
+class D extends C
+{
+	boolean d = true;
+	void m4(){System.out.println("Inside m4 method: " + d);}
+}
+
+class Example5
+{
+	public static void main(String[] args){
+		A a1= new A(); a1.m1(); System.out.println("------------------------");
+		B b1= new B(); b1.m1(); b1.m2(); System.out.println("----------------");
+		C c1=new C(); c1.m1();c1.m2();c1.m3(); System.out.println("---------------");
+		D d1=new D(); d1.m1();d1.m2();d1.m3();d1.m4(); System.out.println("--------------");
+	}
+	
+	
+}
+
+// points:-- we are in all from parent class to its child class but if we want something that is in child class and use it in parent class then it is not possible  

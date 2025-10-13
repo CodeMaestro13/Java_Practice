@@ -1,0 +1,26 @@
+class Example5
+{
+	public static void main(String[] args){
+		System.out.println("Starts");
+		int[] a={10,20,30};
+		for(int aa : a){
+			System.out.println(aa);
+		}
+		System.out.println("Ends");
+	}
+}
+
+// points :--
+// for loop 3 types 1- for each loop 
+//for( type of data extracted store in the same type : from where do we extract data)
+// syntax for for each loop 
+// for( int aa : a)
+//{
+	// s.o.p(aa);
+//}
+
+// for each loop charactrictic 
+
+// the for each loop always start from 0 and cannot be customized 
+// for each loop will not use a condition and automatically checked the end of the for loop 
+// 
