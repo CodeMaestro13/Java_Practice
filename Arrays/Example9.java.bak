@@ -11,7 +11,7 @@ class Example9
 {
 	public static void main(String[] args){
 		System.out.println("Start");
-		Emp[] e ={ new Emp(1010 , "Krishna "), Emp(2020 , "Kabir"),Emp(3030, "Singh")};
+		Emp[] e ={ new Emp(1010 , "Krishna "), new  Emp(2020 , "Kabir"),new Emp(3030, "Singh")};
 		// for each loop 
 		for(Emp ee:e){
 			System.out.println(ee.empId + "--" + ee.empName);

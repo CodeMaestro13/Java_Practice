@@ -4,13 +4,12 @@ class Example3
 		System.out.println("Starts @ cyber");
 		// 2nd ways to declare an array 
 		char[] c = {'a','b','c' };
-		for (int i=0;i<=c.length ;i++ )
+		for (int i=0;i<c.length ;i++ )
 		{
 			System.out.println(c[i]);
 		}
 		System.out.println("Stops @ cyber success");
 	}
-	
 	
 }
 

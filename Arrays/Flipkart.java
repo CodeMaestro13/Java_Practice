@@ -1,0 +1,11 @@
+class Flipkart
+// this is the custom class to have its own implementation 
+{
+	int itemId;
+	String itemName;
+	Flipkart(int itemId , String itemName){
+		this.itemId=itemId;
+		this.itemName=itemName;
+	}
+	
+}

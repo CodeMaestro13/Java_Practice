@@ -13,6 +13,7 @@ class Example3
 	
 }
 
+
 // points --> 2nd  ways to create an array 
 // int[] a ={10,20,30};
 // char[] c= {'a','b','c'};
