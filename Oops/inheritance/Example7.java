@@ -1,0 +1,38 @@
+class A
+{
+	void m1(){ System.out.println("Inside m1 method -- class A[Parent]"); }
+}
+class B extends A
+{
+	void m2(){ System.out.println("Inside m2 method -- class B"); }
+}
+class C extends A
+{
+	void m3(){System.out.println("Inside m3 method -- class C");}
+}
+
+class X extends B
+{
+	
+}
+class Y extends C
+{
+}
+
+// Class A
+//   -->Class B --> Class X
+//   --> Class C --> Class Y 
+class Example7
+{
+	public static void main(String[] args){
+		// object creation 
+		X x1= new X();
+		x1.m1(); x1.m2();
+		System.out.println("------------------------");
+		Y y1= new Y();
+		y1.m1(); y1.m3();
+		
+	}
+}
+
+// points :-- this is the example for hybrid inheritance [] but partially --> due to diamond problem it only support partial hybrid inheritance.

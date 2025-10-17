@@ -7,7 +7,7 @@ class Example10
 		
 		allItems[0]=new Flipkart(1001,"Laptop");
 		allItems[1]=new Flipkart(2002 ,"Desktop ");
-		allItems[4]=new Flipkart(3003, "Kings");
+		allItems[4`s2waq]=new Flipkart(3003, "Kings");
 		
 		// for each loop 
 		for( Flipkart fe : allItems){
