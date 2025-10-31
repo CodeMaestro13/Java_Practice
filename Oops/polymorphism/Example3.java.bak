@@ -1,0 +1,15 @@
+class Example3
+{
+	void test1(int a){
+		System.out.println("inside test1 method -- 1 arg int ");
+		}
+	void test1(){
+		System.out.println("Inside the test1 -- 0 args");
+	}
+	void test1(float b){
+		System.out.println("inside the test1 methos -- 1 arg -- float");
+	}
+	public static void main(String[] args){
+		
+	}
+}

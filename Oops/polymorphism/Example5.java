@@ -1,0 +1,15 @@
+class Example5
+{
+	Example5(){
+		System.out.println("Inside the 0 arg const");
+	}
+	Example5(int a){
+		System.out.println("inside the 1 arg const");
+	}
+	
+	// constructor overloading 
+	// imp-->constructor name should be same but varying the no of argument.
+	public static void main(String[] args){
+	  new Example5(10);	
+	}
+}

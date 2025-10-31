@@ -1,0 +1,31 @@
+class Parent
+{
+	Parent(){
+		System.out.println("inside the 0 arg const-- parent ");
+	}
+}
+class Child extends Parent
+{
+	Child(){
+		super();
+		
+		System.out.println("inside the 0 arg const--child");
+	}
+	
+	Child(int a){
+		
+		System.out.println("inside the 1 arg const");
+	}
+	
+}
+class Example18
+{
+	public static void main(String[] args){
+		
+		// direct creation of object 
+		new Child();
+		
+	}
+}
+
+// point:-- in this example we note that this() and super() both statement could not be used at the same time.
