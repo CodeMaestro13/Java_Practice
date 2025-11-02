@@ -1,0 +1,18 @@
+class Example7
+{
+	Example7(int a){
+		System.out.println("inside the 1 arg const -- int ");
+	}
+	Example7(){
+		System.out.println("inside the zero arg const --0");
+	}
+	Example7(float b){
+		System.out.println("inside the 1 arg const-- float");
+	}
+	
+	public static void main(String[] args){
+		Example7 ref = new Example7();
+	}
+}
+
+// point :-- this example of constructor overloading follows both rules 1 and 2...

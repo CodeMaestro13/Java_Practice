@@ -11,6 +11,3 @@ class Example6
 		Example6 ref = new Example6(10);
 	}
 }
-
-// points:-- in constructor overloading 
-// 2 rule :-- constructor name should remain same also can have same no of argument but should varying the type of argument (int ,float,etc). 
