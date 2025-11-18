@@ -12,4 +12,4 @@ class Scanner1
 	}
 }
 
-// points:-- scanner class is used to scan and read 
+// points:-- scanner class is used to scan and read
