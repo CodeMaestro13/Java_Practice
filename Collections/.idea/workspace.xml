@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops/polymorphism/run time/Example11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops/polymorphism/run time/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops/polymorphism/run time/Example11.java.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String classes/logical programs/LogicalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String classes/logical programs/LogicalExample.java.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String classes/logical programs/String.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CodeMaestro13&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CodeMaestro13/Java_Practice.git&quot;,
+    &quot;accountId&quot;: &quot;b876ed59-77bd-4619-bdf0-428ee1eb976b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35dcFHU2WYSMNBsRSO4Mrf3GEYR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayList1.executor": "Run",
+    "Application.ArrayList10.executor": "Run",
+    "Application.ArrayList11.executor": "Run",
+    "Application.ArrayList2.executor": "Run",
+    "Application.ArrayList3.executor": "Run",
+    "Application.ArrayList4.executor": "Run",
+    "Application.ArrayList7.executor": "Run",
+    "Application.ArrayList8.executor": "Run",
+    "Application.ArrayList9.executor": "Run",
+    "Application.Arraylist12.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Program Files/EditPlus/JAVA/Collections/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="" />
+      <created>1763443287259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763443287259</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1763457418606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763457418606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1763665268281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763665268281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
