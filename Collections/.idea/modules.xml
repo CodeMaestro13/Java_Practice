@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collections.iml" filepath="$PROJECT_DIR$/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/../Multithreading/Multithreading.iml" />
     </modules>
   </component>
 </project>

@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Oops/polymorphism/run time/Example11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Oops/polymorphism/run time/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Oops/polymorphism/run time/Example11.java.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String classes/logical programs/LogicalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String classes/logical programs/LogicalExample.java.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String classes/logical programs/String.java" afterDir="false" />
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="updated files">
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/Multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Sync/DeadlockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Sync/Dusrasync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Sync/shopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +63,13 @@
     "Application.ArrayList8.executor": "Run",
     "Application.ArrayList9.executor": "Run",
     "Application.Arraylist12.executor": "Run",
+    "Application.DeadlockMain.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Program Files/EditPlus/JAVA/Collections/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Program Files/EditPlus/JAVA/Multithreading/src/Main.java"
   }
 }]]></component>
   <component name="TaskManager">
@@ -105,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763665268281</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1764248492101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764248492101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="updated files" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated files" />
   </component>
 </project>
