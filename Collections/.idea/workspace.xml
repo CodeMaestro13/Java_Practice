@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/Multithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Sync/DeadlockMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Sync/Dusrasync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Sync/shopping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/interThreadcomm/AtmExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/interThreadcomm/AtmMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +52,7 @@
     "Application.ArrayList1.executor": "Run",
     "Application.ArrayList10.executor": "Run",
     "Application.ArrayList11.executor": "Run",
+    "Application.ArrayList14.executor": "Run",
     "Application.ArrayList2.executor": "Run",
     "Application.ArrayList3.executor": "Run",
     "Application.ArrayList4.executor": "Run",
@@ -63,6 +60,7 @@
     "Application.ArrayList8.executor": "Run",
     "Application.ArrayList9.executor": "Run",
     "Application.Arraylist12.executor": "Run",
+    "Application.AtmMain.executor": "Run",
     "Application.DeadlockMain.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764248492101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1764332225405</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764332225405</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
