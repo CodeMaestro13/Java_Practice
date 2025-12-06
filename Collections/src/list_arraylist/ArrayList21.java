@@ -26,7 +26,6 @@ public class ArrayList21 {
                 li.set(new Emp(505,"New KRish"));
             }
         }
-
         // extracting
         for(Emp e:al){
             System.out.println(e.empId+ " -- "+e.empName);
