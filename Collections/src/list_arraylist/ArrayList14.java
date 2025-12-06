@@ -1,6 +1,4 @@
 package list_arraylist;
-
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 public class ArrayList14 {
@@ -14,7 +12,7 @@ public class ArrayList14 {
             Emp e=(Emp)o;
             System.out.println(e.empId+ " - "+e.empName);
         }
-        // 2 approach
+        // 2 approach --> get method
         Object o =al.get(0);
         Object o1=al.get(1);
         Emp e=(Emp) o;
@@ -25,3 +23,4 @@ public class ArrayList14 {
     }
 
 }
+//points:- we have 2 methods to 1) for loop 2) get method

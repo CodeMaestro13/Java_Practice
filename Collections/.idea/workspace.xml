@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/interThreadcomm/AtmExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/interThreadcomm/AtmMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Enumeration1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Iterator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ListIterator1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/Arraylist12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +65,16 @@
     "Application.ArrayList1.executor": "Run",
     "Application.ArrayList10.executor": "Run",
     "Application.ArrayList11.executor": "Run",
+    "Application.ArrayList13.executor": "Run",
     "Application.ArrayList14.executor": "Run",
+    "Application.ArrayList15.executor": "Run",
+    "Application.ArrayList16.executor": "Run",
+    "Application.ArrayList17.executor": "Run",
+    "Application.ArrayList18.executor": "Run",
+    "Application.ArrayList19.executor": "Run",
     "Application.ArrayList2.executor": "Run",
+    "Application.ArrayList20.executor": "Run",
+    "Application.ArrayList21.executor": "Run",
     "Application.ArrayList3.executor": "Run",
     "Application.ArrayList4.executor": "Run",
     "Application.ArrayList7.executor": "Run",
@@ -62,6 +83,9 @@
     "Application.Arraylist12.executor": "Run",
     "Application.AtmMain.executor": "Run",
     "Application.DeadlockMain.executor": "Run",
+    "Application.Enumeration1.executor": "Run",
+    "Application.Iterator1.executor": "Run",
+    "Application.ListIterator1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -110,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764332225405</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1764593443039</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764593443039</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

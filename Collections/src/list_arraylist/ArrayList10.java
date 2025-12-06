@@ -22,4 +22,11 @@ public class ArrayList10 {
         System.out.println(al.isEmpty());
 
     }
+
+    //isEmpty/contains/clear
+
+    // contains()--> checke if the object is present or not and return boolean value
+    // isEmpty()-->
+    //clear()--> will clear all the elements within the colleaction
+
 }

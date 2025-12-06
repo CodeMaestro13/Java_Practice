@@ -18,5 +18,9 @@ public class ArrayList11 {
         al2.add('B');
 
         System.out.println(al2);
+        al2.containsAll(al1);
     }
+
+    // que:- how do we add the one collection to another //--> using addAll() method
+
 }

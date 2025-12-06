@@ -22,9 +22,8 @@ public class Arraylist12 {
         al2.removeAll(al1);
         System.out.println(al2.containsAll(al1));
 
-
-
-
-
     }
+
+    //containsAll()--> will check the complete coll or respective coll is present or not and based on which rethrn boolean value
+    //removeAll()--> it will be responsible to remove completeAll specific collection
 }
