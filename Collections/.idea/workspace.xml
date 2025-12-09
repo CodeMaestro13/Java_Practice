@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList302.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Swiggy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/.idea/ADVANCE JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/advance_java_basic/advance_java_basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/mutliThreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/mitlithreading_basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Flipkart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ProdIdComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ProdNameComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/functionalExamples/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/functionalExamples/Example2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/Swiggy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/Swiggy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,16 +78,21 @@
     "Application.ArrayList21.executor": "Run",
     "Application.ArrayList3.executor": "Run",
     "Application.ArrayList302.executor": "Run",
+    "Application.ArrayList303.executor": "Run",
     "Application.ArrayList4.executor": "Run",
     "Application.ArrayList7.executor": "Run",
     "Application.ArrayList8.executor": "Run",
     "Application.ArrayList9.executor": "Run",
     "Application.Arraylist101.executor": "Run",
     "Application.Arraylist12.executor": "Run",
+    "Application.Arraylist304.executor": "Run",
     "Application.AtmMain.executor": "Run",
     "Application.DeadlockMain.executor": "Run",
     "Application.Enumeration1.executor": "Run",
+    "Application.Example1.executor": "Run",
+    "Application.Example2.executor": "Run",
     "Application.Iterator1.executor": "Run",
+    "Application.LinkedList1.executor": "Run",
     "Application.ListIterator1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
