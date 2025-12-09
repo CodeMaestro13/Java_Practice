@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/.idea/ADVANCE JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/advance_java_basic/advance_java_basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/mutliThreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/mitlithreading_basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/Flipkart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ProdIdComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_arraylist/ProdNameComp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/functionalExamples/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/functionalExamples/Example2.java" afterDir="false" />
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Finished the Arraylist concept with comparator and comparable started linkedlist">
+      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list_arraylist/Swiggy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/Swiggy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +86,15 @@
     "Application.Example2.executor": "Run",
     "Application.Iterator1.executor": "Run",
     "Application.LinkedList1.executor": "Run",
+    "Application.LinkedList2.executor": "Run",
+    "Application.LinkedList3.executor": "Run",
+    "Application.LinkedList4.executor": "Run",
     "Application.ListIterator1.executor": "Run",
+    "Application.Stack1.executor": "Run",
+    "Application.Vector1.executor": "Run",
+    "Application.Vector2.executor": "Run",
+    "Application.Vector3.executor": "Run",
+    "Application.Vector4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -158,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765007527075</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finished the Arraylist concept with comparator and comparable started linkedlist">
+      <option name="closed" value="true" />
+      <created>1765276782177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765276782177</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="updated files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated files" />
+    <MESSAGE value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
   </component>
 </project>
