@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Finished the Arraylist concept with comparator and comparable started linkedlist">
-      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Vectors/Vector4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_Hashset/HashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_Hashset/HashSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_Hashset/HashSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_Hashset/Hashset4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_Hashset/Stud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_Hashset/infoHashset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_Linkedlist/LinkedList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_Stacks/Stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_Stacks/Stack1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +86,9 @@
     "Application.Enumeration1.executor": "Run",
     "Application.Example1.executor": "Run",
     "Application.Example2.executor": "Run",
+    "Application.HashSet1.executor": "Run",
+    "Application.HashSet2.executor": "Run",
+    "Application.HashSet3.executor": "Run",
     "Application.Iterator1.executor": "Run",
     "Application.LinkedList1.executor": "Run",
     "Application.LinkedList2.executor": "Run",
@@ -91,6 +96,9 @@
     "Application.LinkedList4.executor": "Run",
     "Application.ListIterator1.executor": "Run",
     "Application.Stack1.executor": "Run",
+    "Application.Stack2.executor": "Run",
+    "Application.Stack3.executor": "Run",
+    "Application.Stack4.executor": "Run",
     "Application.Vector1.executor": "Run",
     "Application.Vector2.executor": "Run",
     "Application.Vector3.executor": "Run",
@@ -186,5 +194,16 @@
     <MESSAGE value="updated files" />
     <MESSAGE value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
     <option name="LAST_COMMIT_MESSAGE" value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/set_Hashset/HashSet3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

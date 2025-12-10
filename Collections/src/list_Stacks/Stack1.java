@@ -15,5 +15,6 @@ public class Stack1 {
     }
 }
 
-//method within the stack
-// public E push(E) -->
+//method within the stack--> in stack their is no add method so adding happen with push method
+// public E push(E) --> E-element  the push method is responsible to push the object to the stack.
+//
