@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Set Collection added and HashSet files added.">
-      <change afterPath="$PROJECT_DIR$/src/set_LinkedHashSet/LinkedHashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_LinkedHashSet/LinkedHashSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet2.java" afterDir="false" />
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="added LinkedHashSet and TreeSet &#10;files">
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/CompStudId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/CompStudName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/SortedSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/Stud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/StreamApis/dusrastream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/set_Hashset/Hashset4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_Hashset/Hashset4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/Arraylist304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/Arraylist304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set_TreeSet/TreeSet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set_TreeSet/TreeSet2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +45,9 @@
     &quot;accountId&quot;: &quot;b876ed59-77bd-4619-bdf0-428ee1eb976b&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -93,15 +101,21 @@
     "Application.LinkedList3.executor": "Run",
     "Application.LinkedList4.executor": "Run",
     "Application.ListIterator1.executor": "Run",
+    "Application.SortedSet1.executor": "Run",
     "Application.Stack1.executor": "Run",
     "Application.Stack2.executor": "Run",
     "Application.Stack3.executor": "Run",
     "Application.Stack4.executor": "Run",
     "Application.TreeSet1.executor": "Run",
+    "Application.TreeSet2.executor": "Run",
+    "Application.TreeSet3.executor": "Run",
+    "Application.TreeSet4.executor": "Run",
+    "Application.TreeSet5.executor": "Run",
     "Application.Vector1.executor": "Run",
     "Application.Vector2.executor": "Run",
     "Application.Vector3.executor": "Run",
     "Application.Vector4.executor": "Run",
+    "Application.dusrastream.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -182,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765370984280</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added LinkedHashSet and TreeSet &#10;files">
+      <option name="closed" value="true" />
+      <created>1765439647152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765439647152</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +223,8 @@
     <MESSAGE value="updated files" />
     <MESSAGE value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
     <MESSAGE value="Set Collection added and HashSet files added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Set Collection added and HashSet files added." />
+    <MESSAGE value="added LinkedHashSet and TreeSet &#10;files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added LinkedHashSet and TreeSet &#10;files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -17,6 +17,7 @@ public class Arraylist304 {
 
         //sorting by name
         Collections.sort(al,new ProdNameComp());
+        // in ProdNameComp class we have implemented the comparator
 
         // printing the objects
         // extractions of data
