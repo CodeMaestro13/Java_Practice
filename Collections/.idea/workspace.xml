@@ -4,18 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Finished the Arraylist concept with comparator and comparable started linkedlist">
-      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list_Stacks/Stack4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_Hashset/HashSet1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_Hashset/HashSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_Hashset/HashSet3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_Hashset/Hashset4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_Hashset/Stud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_Hashset/infoHashset.java" afterDir="false" />
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Set Collection added and HashSet files added.">
+      <change afterPath="$PROJECT_DIR$/src/set_LinkedHashSet/LinkedHashSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_LinkedHashSet/LinkedHashSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list_Stacks/Stack1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_Stacks/Stack1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list_arraylist/ArrayList102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list_arraylist/ArrayList102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set_Hashset/Hashset4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_Hashset/Hashset4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +86,8 @@
     "Application.HashSet2.executor": "Run",
     "Application.HashSet3.executor": "Run",
     "Application.Iterator1.executor": "Run",
+    "Application.LinkedHashSet1.executor": "Run",
+    "Application.LinkedHashSet2.executor": "Run",
     "Application.LinkedList1.executor": "Run",
     "Application.LinkedList2.executor": "Run",
     "Application.LinkedList3.executor": "Run",
@@ -99,6 +97,7 @@
     "Application.Stack2.executor": "Run",
     "Application.Stack3.executor": "Run",
     "Application.Stack4.executor": "Run",
+    "Application.TreeSet1.executor": "Run",
     "Application.Vector1.executor": "Run",
     "Application.Vector2.executor": "Run",
     "Application.Vector3.executor": "Run",
@@ -175,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765276782177</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Set Collection added and HashSet files added.">
+      <option name="closed" value="true" />
+      <created>1765370984280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765370984280</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +200,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="updated files" />
     <MESSAGE value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the Arraylist concept with comparator and comparable started linkedlist" />
+    <MESSAGE value="Set Collection added and HashSet files added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Collection added and HashSet files added." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

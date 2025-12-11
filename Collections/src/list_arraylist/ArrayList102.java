@@ -1,6 +1,4 @@
 package list_arraylist;
-
-import java.sql.Array;
 import java.util.Arrays;
 import java.util.List;
 
