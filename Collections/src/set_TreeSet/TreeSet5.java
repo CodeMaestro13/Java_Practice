@@ -13,11 +13,12 @@ public class TreeSet5 {
         SortedSet ss1=ts1.headSet('C');
         SortedSet ss2=ts1.tailSet('C');
 
+
         System.out.println(ss1);
         System.out.println(ss2);
 
         // constructor
-//        public java.util.TreeSet(SortedSet<E>);
+//      public java.util.TreeSet(SortedSet<E>);
 
         TreeSet t11= new TreeSet(ss1);
         TreeSet t22= new TreeSet(ss2);
