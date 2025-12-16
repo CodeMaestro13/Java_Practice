@@ -9,15 +9,16 @@ import java.util.Set;
 public class HashMap4 {
     public static void main(String[] args) {
         HashMap hs1= new HashMap();
-        hs1.put(101,"Krishna");
         hs1.put(202,"Shekhar");
-        hs1.put(303,"Narade");
         hs1.put(404,"SDE at Google Software Engineer");
+        hs1.put(303,"Narade");
+        hs1.put(101,"Krishna");
 
         // to extract it we need to convert it to set
-        Set s=hs1.keySet();
+//        Set s=hs1.keySet(); --> it is invalid because keyset is use to display only keys of the maps
+        Set ss=hs1.entrySet();
         // now on set we can perform the operations
-        Iterator i= s.iterator();
+        Iterator i= ss.iterator();
         // same as before we are iterating into the other collections
         while(i.hasNext()){
             // for extracting the data we have to use the Map.entry
@@ -28,7 +29,6 @@ public class HashMap4 {
             System.out.println(mp.getKey()+ " -- "+ mp.getValue());
         }
     }
-
 }
 
 //points:-- to extract data form the map we dont have any direct method why because it have two objects so

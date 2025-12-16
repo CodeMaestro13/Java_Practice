@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="finilized the set collection files">
-      <change afterPath="$PROJECT_DIR$/src/maps/MapsInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps_HashMap/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps_HashMap/MapEntryClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/Dateandtime/DTExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/StreamApis/Dateandtimeapis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/StreamApis/Fibonacibystreams.java" afterDir="false" />
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Map collection started with adding HashMap files">
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/multithreadingtheory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/OTExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/optionalintro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/set_TreeSet/TreeSet5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_TreeSet/TreeSet5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maps_HashMap/HashMap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maps_HashMap/HashMap4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithreading/src/Dateandtime/DTExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/src/Dateandtime/DTExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +103,7 @@
     "Application.LinkedList3.executor": "Run",
     "Application.LinkedList4.executor": "Run",
     "Application.ListIterator1.executor": "Run",
+    "Application.OTExample.executor": "Run",
     "Application.SortedSet1.executor": "Run",
     "Application.Stack1.executor": "Run",
     "Application.Stack2.executor": "Run",
@@ -218,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765457615981</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Map collection started with adding HashMap files">
+      <option name="closed" value="true" />
+      <created>1765547004546</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765547004546</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +244,8 @@
     <MESSAGE value="Set Collection added and HashSet files added." />
     <MESSAGE value="added LinkedHashSet and TreeSet &#10;files" />
     <MESSAGE value="finilized the set collection files" />
-    <option name="LAST_COMMIT_MESSAGE" value="finilized the set collection files" />
+    <MESSAGE value="Map collection started with adding HashMap files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map collection started with adding HashMap files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -249,6 +255,10 @@
           <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

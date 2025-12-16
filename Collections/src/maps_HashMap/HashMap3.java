@@ -22,5 +22,5 @@ public class HashMap3 {
     }
 }
 
-// I>Q: How do we extract keys and values from a map.
+// I>Q: How do we display keys and values from a map.
 //-> with the help of keyset() method and values () method

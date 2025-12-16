@@ -1,9 +1,9 @@
 package Dateandtime;
 
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
+import java.time.*;
+import java.time.format.DateTimeFormatter;
+import java.util.Date;
 
 // Date and Time Apis Example:-
 public class DTExample {
@@ -71,6 +71,60 @@ public class DTExample {
         // for random date
         LocalDateTime rldt= LocalDateTime.of(1920,12,30,3,4,5);
         System.out.println(rldt);
+
+        // local date to string conversion
+        LocalDate today= LocalDate.now();
+        String sdt=today.toString();
+        sdt=sdt.replace('-' ,'/');
+        System.out.println(sdt);
+
+        // String to LocalDate
+        // we do not do it directly--> we have to take formator
+        String din="18-09-2016";
+        DateTimeFormatter format= DateTimeFormatter.ofPattern("dd-MM-yyyy");
+        LocalDate tarik=LocalDate.parse(din,format);
+        // parse meaning--> one type ko change karna
+        System.out.println(tarik);
+
+        // localtime --
+        LocalTime abhi= LocalTime.now();
+        String waqt=abhi.toString();
+        System.out.println(waqt);
+
+        //String to LocalTime
+        String t="11:11:11";
+        DateTimeFormatter timeformet=DateTimeFormatter.ofPattern("HH:mm:ss");
+        LocalTime ti = LocalTime.parse(t,timeformet);
+        System.out.println(ti);
+
+
+        // localDateTime
+        LocalDateTime ldt1= LocalDateTime.now();
+        String strdt=ldt1.toString();
+        System.out.println(strdt.replace('T',' '));
+
+        String sdati="07-05-2025 01:11:11";
+        DateTimeFormatter formet=DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
+        LocalDateTime sindoor=LocalDateTime.parse(sdati, formet);
+        System.out.println(sindoor);
+
+
+        // Zone specific details time
+        ZonedDateTime zdt=ZonedDateTime.now();
+        System.out.println(zdt);
+
+        ZoneId india=ZoneId.of("Asia/Calcutta");
+        System.out.println(india);
+
+        LocalTime it=LocalTime.now(india);
+        System.out.println(it);
+
+        ZoneId ny=ZoneId.of("America/New_York");
+        System.out.println(ny);
+        LocalTime nt=LocalTime.now(ny);
+        System.out.println(nt);
+
+                // ZOneid--used to take out information from it
 
     }
 }
