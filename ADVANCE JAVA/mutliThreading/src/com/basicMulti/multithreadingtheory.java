@@ -1,4 +1,4 @@
-package mutlithreading;
+package com.basicMulti;
 
 public class multithreadingtheory {
 

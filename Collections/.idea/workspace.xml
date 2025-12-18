@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Map collection started with adding HashMap files">
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/multithreadingtheory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/OTExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/optionalintro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/DusraThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/PahlaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/ProcessExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/TisraThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/mitlithreading_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/mitlithreading_basic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/multithreadingtheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/multithreadingtheory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/out/production/mutliThreading/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maps_HashMap/HashMap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maps_HashMap/HashMap4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maps_HashMap/HashMap4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Multithreading/src/Dateandtime/DTExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/src/Dateandtime/DTExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/OTExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/OTExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,79 +55,79 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayList1.executor": "Run",
-    "Application.ArrayList10.executor": "Run",
-    "Application.ArrayList102.executor": "Run",
-    "Application.ArrayList103.executor": "Run",
-    "Application.ArrayList11.executor": "Run",
-    "Application.ArrayList13.executor": "Run",
-    "Application.ArrayList14.executor": "Run",
-    "Application.ArrayList15.executor": "Run",
-    "Application.ArrayList16.executor": "Run",
-    "Application.ArrayList17.executor": "Run",
-    "Application.ArrayList18.executor": "Run",
-    "Application.ArrayList19.executor": "Run",
-    "Application.ArrayList2.executor": "Run",
-    "Application.ArrayList20.executor": "Run",
-    "Application.ArrayList21.executor": "Run",
-    "Application.ArrayList3.executor": "Run",
-    "Application.ArrayList302.executor": "Run",
-    "Application.ArrayList303.executor": "Run",
-    "Application.ArrayList4.executor": "Run",
-    "Application.ArrayList7.executor": "Run",
-    "Application.ArrayList8.executor": "Run",
-    "Application.ArrayList9.executor": "Run",
-    "Application.Arraylist101.executor": "Run",
-    "Application.Arraylist12.executor": "Run",
-    "Application.Arraylist304.executor": "Run",
-    "Application.AtmMain.executor": "Run",
-    "Application.DTExample.executor": "Run",
-    "Application.DeadlockMain.executor": "Run",
-    "Application.Enumeration1.executor": "Run",
-    "Application.Example1.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Fibonacibystreams.executor": "Run",
-    "Application.HashMap1.executor": "Run",
-    "Application.HashMap2.executor": "Run",
-    "Application.HashMap3.executor": "Run",
-    "Application.HashMap4.executor": "Run",
-    "Application.HashSet1.executor": "Run",
-    "Application.HashSet2.executor": "Run",
-    "Application.HashSet3.executor": "Run",
-    "Application.Iterator1.executor": "Run",
-    "Application.LinkedHashSet1.executor": "Run",
-    "Application.LinkedHashSet2.executor": "Run",
-    "Application.LinkedList1.executor": "Run",
-    "Application.LinkedList2.executor": "Run",
-    "Application.LinkedList3.executor": "Run",
-    "Application.LinkedList4.executor": "Run",
-    "Application.ListIterator1.executor": "Run",
-    "Application.OTExample.executor": "Run",
-    "Application.SortedSet1.executor": "Run",
-    "Application.Stack1.executor": "Run",
-    "Application.Stack2.executor": "Run",
-    "Application.Stack3.executor": "Run",
-    "Application.Stack4.executor": "Run",
-    "Application.TreeSet1.executor": "Run",
-    "Application.TreeSet2.executor": "Run",
-    "Application.TreeSet3.executor": "Run",
-    "Application.TreeSet4.executor": "Run",
-    "Application.TreeSet5.executor": "Run",
-    "Application.Vector1.executor": "Run",
-    "Application.Vector2.executor": "Run",
-    "Application.Vector3.executor": "Run",
-    "Application.Vector4.executor": "Run",
-    "Application.dusrastream.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Program Files/EditPlus/JAVA/Multithreading/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList102.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList302.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList303.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylist101.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylist12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylist304.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AtmMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DTExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeadlockMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enumeration1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacibystreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMap4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSet1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSet2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSet3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Iterator1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSet1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSet2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedList4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListIterator1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OTExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedSet1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stack4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSet5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vector1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vector2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vector3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vector4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dusrastream.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Program Files/EditPlus/JAVA/Multithreading/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="" />
