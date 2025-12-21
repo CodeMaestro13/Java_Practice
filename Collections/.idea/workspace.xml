@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Map collection started with adding HashMap files">
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/DusraThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/PahlaThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/ProcessExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/TisraThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/mitlithreading_basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/mitlithreading_basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/mutlithreading/multithreadingtheory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/multithreadingtheory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/out/production/mutliThreading/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/TisraThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/TisraThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/OTExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/src/OptionalClass/OTExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
