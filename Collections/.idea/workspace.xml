@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Map collection started with adding HashMap files">
-      <change beforePath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/TisraThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADVANCE JAVA/mutliThreading/src/com/basicMulti/TisraThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c8607b09-9162-400f-8229-9c4e65426bc1" name="Changes" comment="Map collection started with adding HashMap files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
